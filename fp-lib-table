@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LDO39200")(type "KiCad")(uri "${KIPRJMOD}/LDO39200.pretty")(options "")(descr ""))
+  (lib (name "SIM800L-Core-Module-KiCad-Footprint")(type "KiCad")(uri "${KIPRJMOD}/SIM800L-Core-Module-KiCad-Footprint")(options "")(descr ""))
+)
